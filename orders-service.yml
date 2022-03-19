@@ -2,3 +2,4 @@
 aws:
   s3:
     name: orders-service-s3-bucket
+    region: us-east-1
