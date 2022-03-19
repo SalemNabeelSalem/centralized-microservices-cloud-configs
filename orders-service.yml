@@ -1,0 +1,4 @@
+# For Testing Purposes
+aws:
+  s3:
+    name: orders-service-s3-bucket
