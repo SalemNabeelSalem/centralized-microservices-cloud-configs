@@ -1,5 +1,5 @@
 # For Testing Purposes
 aws:
   s3:
-    name: products-service-s3-bucket
+    name: products-service-storage-bucket
     region: us-east-3
