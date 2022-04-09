@@ -2,4 +2,4 @@
 aws:
   s3:
     name: orders-service-s3-bucket-name
-    region: orders-service-s3-bucket-region
+    region: orders-service-s3-bucket-region-[us-east-1]
