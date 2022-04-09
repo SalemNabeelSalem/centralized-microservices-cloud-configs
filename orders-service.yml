@@ -1,5 +1,5 @@
 # For Testing Purposes
 aws:
   s3:
-    name: orders-service-s3-bucket
-    region: us-east-2
+    name: orders-service-s3-bucket-name
+    region: orders-service-s3-bucket-region
