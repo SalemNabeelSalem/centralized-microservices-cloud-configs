@@ -1,0 +1,5 @@
+# For Testing Purposes
+aws:
+  s3:
+    name: inventory-service-s3-bucket-name
+    region: inventory-service-s3-bucket-region-[us-east-1]
